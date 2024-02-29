@@ -10,3 +10,6 @@ While conceptually straightforward, I could encounter some challenges in impleme
 I would have liked to have the time to extend the analysis and apply something similar but different. For example:\
 •	Implement a RNN-based language model rather than simple bigram model to improve coherence.\
 •	Instead of trying train, test and predict by characters, doing it by words.
+
+
+https://youtu.be/kCc8FmEb1nY?si=Uc2VOAHrva3-zby2
